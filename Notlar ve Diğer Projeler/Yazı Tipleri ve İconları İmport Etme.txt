@@ -1,0 +1,9 @@
+home, search vb. butonlar için bir import sitesi:
+
+https://fontawesome.com/
+
+-------------------------------------------------------------------------------------------
+
+yazı fontlarını çekilebilmesi için bir google tarafından sağlanan bir hizmet olan google fonts:
+
+https://fonts.google.com/

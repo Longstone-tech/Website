@@ -1,0 +1,3 @@
+Kutu gölgeliklerini dizayn oalrak ayarlayabileceğiniz ve rgb kodları ve px kodlarıyla ulaşabileceğiniz bir site;
+
+https://www.cssmatic.com/box-shadow
